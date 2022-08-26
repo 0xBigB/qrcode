@@ -83,7 +83,7 @@ body {
   background: url(border.png);
   background-size: 400px;
   background-repeat: no-repeat;
-  animation: animateText 0.5s linear infinite;
+  animation: animateText 1s linear infinite;
 }
 
 .scan h3 {
@@ -93,7 +93,7 @@ body {
   color: #FFF;
   letter-spacing: 2px;
   filter: drop-shadow(0 0 20px #FFF) drop-shadow(0 0 60px #FFF);
-  animation: animateText 0.5s steps(1) infinite;
+  animation: animateText 1s steps(1) infinite;
 }
 
 @keyframes animateText
